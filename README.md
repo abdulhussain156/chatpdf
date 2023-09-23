@@ -1,3 +1,7 @@
-![Build and Deploy Full Stack ChatPDF Clone](https://github.com/Elliott-Chong/chatpdf-yt/assets/77007117/7fcee290-ca52-46ee-ae82-3490f505270b)
+A SaaS using NextJS 13.4, DrizzleORM, OpenAI, Stripe, TypeScript, Tailwind, and Vercel. You will gain expertise in the following areas:
 
-[Link to YouTube Tutorial](https://www.youtube.com/watch?v=bZFedu-0emE)
+- Leveraging NextJS 13's cutting-edge App Router.
+- Managing Payments seamlessly through Stripe.
+- Harnessing the beauty of Shadcn and the power of Tailwind CSS.
+- Unleashing the capabilities of OpenAI's API for Language Model usage.
+- Interacting with databases with the efficiency of ORMs.
